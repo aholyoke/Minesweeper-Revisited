@@ -6,6 +6,6 @@ I wrote this is Grade 11 so the code can get pretty goofy.
 
 
 run and compile with
-    javac Origin.java
-    java Origin.class
+	javac Origin.java
+	java Origin.class
     
